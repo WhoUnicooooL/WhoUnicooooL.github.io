@@ -849,6 +849,24 @@
     var sakura = new Sakura('body', {
 		fallSpeed: 2.5
     });
+
+	function resizeSakuraCanvas() {
+    const c = document.querySelector('canvas.sakura');
+    if (!c) return;
+    c.width  = window.innerWidth;
+    c.height = window.innerHeight;
+    c.style.position = 'fixed';
+    c.style.top = '0';
+    c.style.left = '0';
+    c.style.width = '100vw';
+    c.style.height = '100vh';
+    c.style.pointerEvents = 'none';
+    c.style.zIndex = '99999';
+    }
+
+    resizeSakuraCanvas();
+    window.addEventListener('resize', resizeSakuraCanvas);
+
   </script>
 
 </body>
