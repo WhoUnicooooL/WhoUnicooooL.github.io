@@ -21,6 +21,7 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 ![divider](https://img.shields.io/badge/✿-✿-pink)
 ![divider](https://img.shields.io/badge/✨-✨-ffe4e1)
 
+![images](reaedme_screenshot.png)  
 
 ### Website Preview
 <p align="center"> 
