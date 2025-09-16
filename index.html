@@ -805,10 +805,14 @@
     })
   </script>
 
-  <!-- import Sakura.js -->
+  <!-- 引入 Sakura.js -->
   <script src="https://cdn.jsdelivr.net/gh/jhammann/sakura/sakura.min.js"></script>
+
+  <!-- 初始化 -->
   <script>
-    new Sakura('body');
+    document.addEventListener("DOMContentLoaded", function () {
+      new Sakura('body');
+    });
   </script>
 
 </body>

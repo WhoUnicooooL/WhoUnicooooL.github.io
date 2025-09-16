@@ -20,6 +20,11 @@
   height: auto;
 }
 
+.sakura {
+  z-index: 9999 !important;
+  pointer-events: none !important;
+}
+
 .tracker {
   /* visibility: hidden; */
   position: fixed;
@@ -269,7 +274,7 @@ ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
 } */
 
 ul.side-nav.fixed li.logo {
-  background-color: #fafafa;
+  background-color: #F8F7BA;
   border-bottom: 1px solid #ddd;
   box-sizing: content-box;
   min-height: 90px;
