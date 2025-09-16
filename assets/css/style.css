@@ -356,7 +356,7 @@ h3 {
 }
 
 .overlay {
-  background-color: rgba(245, 210, 210, 0.8) !important;
+  background-color: rgba(244, 155, 171, 1) !important;
   height: 100%;
   left: 0;
   position: absolute;
@@ -602,7 +602,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #009688;
+    color: #FDAAAA;
     height: 56px;
     line-height: 56px;
   }
@@ -626,6 +626,7 @@ small {
     text-align: center;
     width: 100%;
     position: absolute;
+	background-color: rgba(248, 247, 186, 1);
   }
   .name-title>span, .name-title>a {
     position: relative;
