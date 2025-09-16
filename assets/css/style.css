@@ -20,10 +20,6 @@
   height: auto;
 }
 
-.sakura {
-  z-index: 9999 !important;
-  pointer-events: none !important;
-}
 
 .tracker {
   /* visibility: hidden; */
