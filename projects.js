@@ -77,7 +77,7 @@ function createProjectCard(p) {
 };
 
 // 3. Load More + recent
-const PAGE_SIZE = 3;
+const PAGE_SIZE = 1;
 let cursor = 1;
 let sorted = [];
 
