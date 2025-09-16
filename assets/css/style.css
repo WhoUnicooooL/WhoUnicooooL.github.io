@@ -28,6 +28,12 @@
   right: 0;
 }
 
+.cream-card {
+    background-color: #F8F7BA;
+    border-radius: 12px;
+    box-shadow: 2px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
 @import url(https://fonts.googleapis.com/css?family=Poiret+One);
 .social {
   margin: 0 auto;
@@ -345,6 +351,7 @@ h3 {
   line-height: 150%;
   /* padding: 0 0px; */
   text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  border: 2px solid rgba(248, 247, 186, 1);
 }
 
 #intro.section .underline {
