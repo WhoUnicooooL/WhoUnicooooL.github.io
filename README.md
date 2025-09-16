@@ -1,6 +1,9 @@
 # Personal Portfolio ⚡️ 
+Author: Lynne Liu
 this repo is a clone of
 https://github.com/varadbhogayata/varadbhogayata.github.io
+
+![divider](https://img.shields.io/badge/✿-✿-pink)
 
 ### Website Preview
 <p align="center"> 
