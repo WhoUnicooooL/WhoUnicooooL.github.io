@@ -805,13 +805,11 @@
     })
   </script>
 
-  <!-- 引入 Sakura.js -->
-  <script src="https://cdn.jsdelivr.net/gh/jhammann/sakura/sakura.min.js"></script>
-
-  <!-- 初始化 -->
+  <script src="sakura-master/dist/sakura.js"></script>
   <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      new Sakura('body');
+    var sakura = new Sakura('body', {
+      fallSpeed: 1,
+      newOn: 300
     });
   </script>
 
