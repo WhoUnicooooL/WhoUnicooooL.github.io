@@ -35,6 +35,11 @@
 }
 
 @import url(https://fonts.googleapis.com/css?family=Poiret+One);
+
+body {
+    font-family: cursive;
+}
+
 .social {
   margin: 0 auto;
   width: auto;
