@@ -20,7 +20,7 @@ const projects = [
     accomplishments: [
       "basic searching functionality (intersections, roads), Different themes (light, dark), New user tutorial guide, Simple navigation (shows the path and directions)."
     ],
-	date: "2025-02-01"
+	date: "2023-02-01"
   },
   // proj 3
   {
@@ -31,7 +31,7 @@ const projects = [
     accomplishments: [
       "Users could enter a sentence in the input prompt line, and the system will return the most related emtions out of neutral, positive, and negative."
     ],
-	date: "2025-02-01"
+	date: "2024-02-01"
   },
   // proj 4
   {
@@ -42,7 +42,7 @@ const projects = [
     accomplishments: [
       "It developed a Python-based tool leveraging natural language processing for efficient essay evaluation. The system provides objective essay scores and auto-generates feedback, reducing manual assessment time, enhancing grading consistency, and offering actionable insights for writers to improve their content. The idea of this project is based on the original model of GPT-2 and GPT-3 and diffusion model."
     ],
-	date: "2025-02-01"
+	date: "2024-12-01"
   }
 ];
 
