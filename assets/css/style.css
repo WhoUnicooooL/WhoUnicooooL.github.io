@@ -707,3 +707,10 @@ small {
   }
 }
 
+#load-more {
+  background: #F49BAB;
+  color: white;
+}
+#load-more:hover {
+  background: #f27fa3;
+}
