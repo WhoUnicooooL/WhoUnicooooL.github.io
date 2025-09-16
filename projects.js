@@ -101,6 +101,9 @@ function renderMore() {
 // 4. init page
 window.addEventListener("DOMContentLoaded", () => {
   sorted = [...projects].sort((a, b) => new Date(b.date) - new Date(a.date));
+  document.getElementById('recent-projects').innerHTML = '';
   renderLatest();
-  document.getElementById("load-more").addEventListener("click", renderMore);
+  const btn = document.getElementById('load-more');
+  btn.onclick = renderMore;  
+  // document.getElementById("load-more").addEventListener("click", renderMore);
 });
