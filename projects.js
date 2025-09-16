@@ -35,7 +35,7 @@ const projects = [
   },
   // proj 4
   {
-    title: "Automatic Essay Scoring",
+    title: "Essay Scoring",
     img: "/assets/img/project-aim_bert-bias.png",
     desc: "cross-prompt automated essay scoring.",
     skills: "Python, LLM, beautifulsoup",
