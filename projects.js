@@ -77,7 +77,7 @@ function createProjectCard(p) {
 };
 
 // 3. Load More + recent
-const PAGE_SIZE = 1;
+const PAGE_SIZE = 3;
 let cursor = 1;
 let sorted = [];
 
@@ -102,6 +102,5 @@ function renderMore() {
 window.addEventListener("DOMContentLoaded", () => {
   sorted = [...projects].sort((a, b) => new Date(b.date) - new Date(a.date));
   renderLatest();
-  renderMore();
   document.getElementById("load-more").addEventListener("click", renderMore);
 });
