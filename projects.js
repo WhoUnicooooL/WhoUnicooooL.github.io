@@ -74,7 +74,7 @@ function createProjectCard(p) {
       </div>
     </div>
   `;
-}
+};
 
 // 3. Load More + recent
 const PAGE_SIZE = 3;
@@ -85,7 +85,7 @@ function renderLatest() {
   const latestWrap = document.getElementById("latest-project");
   const latest = sorted[0];
   if (latest) latestWrap.innerHTML = createProjectCard(latest);
-}
+};
 
 function renderMore() {
   const list = document.getElementById("recent-projects");
@@ -96,7 +96,7 @@ function renderMore() {
   if (cursor >= sorted.length) {
     document.getElementById("load-more").style.display = "none";
   }
-}
+};
 
 // 4. init page
 window.addEventListener("DOMContentLoaded", () => {
