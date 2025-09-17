@@ -29,7 +29,8 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 ![readme_screenshot](images/A2_2.png) 
 
 ### Activity 3
-![readme_screenshot](images/main_page.png)  
+![readme_screenshot](images/A3_1.png)  
+![readme_screenshot](images/A3_2.png)  
 
 ### Activity 4
 ![readme_screenshot](images/A4_1.png)  
