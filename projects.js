@@ -105,5 +105,4 @@ window.addEventListener("DOMContentLoaded", () => {
   renderLatest();
   const btn = document.getElementById('load-more');
   btn.onclick = renderMore;  
-  // document.getElementById("load-more").addEventListener("click", renderMore);
 });
