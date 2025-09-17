@@ -21,17 +21,30 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 ![divider](https://img.shields.io/badge/✿-✿-pink)
 ![divider](https://img.shields.io/badge/✨-✨-ffe4e1)
 
+### Activity 1
 ![readme_screenshot](images/readme_screenshot.png)  
+
+### Activity 2
+![readme_screenshot](images/A2_1.png)  
+
+### Activity 3
+
+### Activity 4
+![readme_screenshot](images/A4_1.png)  
+![readme_screenshot](images/A4_2.png)  
+
+### Activity 5
+![readme_screenshot](images/A5_1.png)  
+![readme_screenshot](images/A5_2.png)  
 
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://whounicooool.github.io/" target="_blank"><img src="images/main_page.png">
   </a>
   </kbd>
 </p>
 
-:star: Star me on GitHub — it helps!
 
 ## Features 📋
 ⚡️ Fully Responsive\
